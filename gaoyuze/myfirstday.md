@@ -8,4 +8,4 @@
 
 第二点则是不浮躁。现在的我虽然在技术上很弱，但是不应妄自菲薄，过分看低自己，到处与大神攀比寻求打击。而是应该踏踏实实的学习，相信自己的能力，一步一步的提升自己，戒除浮躁，沉下心来钻研技术。要相信坚持一定有收获！
 
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=430208475&type=2&auto=0&width=320&height=66" type="application/x-shockwave-flash"></object> 
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=36492196&amp;type=2&amp;auto=0&amp;width=320&amp;height=66" type="application/x-shockwave-flash" title="Adobe Flash Player"></object>
