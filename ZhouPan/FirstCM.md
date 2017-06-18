@@ -7,7 +7,7 @@
 1. Linux 3+1 起源及近况
 	Linux 3+1班起源于周立功先生在我校投资的周立功Linux 3+1 创新实验班，其目的培养单片机相关的硬件方面的人才，但是由于近几年，互联网在我国的飞速发展，及软件行业的雄起，越来越多的人才流向了软件行业，受此影响，越来越多的人也就就业于国内各大互联网公司。Linux 3+1 班主要组成为计算机学院大三学生，经过笔试和面试，确定最终人员。
 2. 怎样参与开源
-陈老师向我们讲述了怎样参与开源，怎样走进去，然后再向上发展。
+	陈老师向我们讲述了怎样参与开源，怎样走进去，然后再向上发展。
 	参与开源，最初的方法就是要先走进开源的世界，而怎样走进去呢？就像朋友圈一样，要进入这个圈子，就需要了解什么是开源社区，社区里的人在玩什么，他们的“朋友圈”又是什么呢？
 - github
 了解过git的童鞋都知道，git是Linux之父 [林纳斯·托瓦兹](http://baike.baidu.com/link?url=LEPREmkGOnT-TIcBDXiZvS_WKiPkOjyI4TbjzDDc0Eo9926rXgNLC71s5A97qTYZKVbc9cSEHn8C3j2-Nq4chEKRKyGmAihuVS4NE6PhEZKfRNj5LBfJRVilwhMGkpAsjRfbsq9tFZOJRGbt19kKXQIXoVqVM_8iVsvYgghkul3)（Linus Torvalds）花了一周时间写出的一个分布式版本控制系统，而github就是在git这个版本控制系统基础上，通过web页面定制的一个全球性的代码仓库。这上面，保存了世界上最大的开源项目：[Linux](https://github.com/torvalds/linux)，同时，全球几乎所有优秀的开源项目都将github作为了代码仓库，如[OpenStack](https://github.com/openstack/openstack)，[Hadoop](https://github.com/apache/hadoop) 等。github不仅是一个全球性的代码仓库，还是全球开源爱好者的“朋友圈”，在github上，你可以将自己的项目或代码开放出去，感兴趣的人就可以参与到你的项目中去，帮你除bug，添功能，加需求。
