@@ -11,7 +11,7 @@
 
 > 注：3,4,5步骤和操作一般自己的仓库没区别
 
-### 怎样和源仓库内容保持同不呢？
+### 怎样和源仓库内容保持同步呢？
 1. $ git remote add 3plus1 git@github.com:XiyouLinux3plus1-2018/Demo.git # 添加源仓库URL并指定将其更新到本地的3plus1分支上
 2. $ git fetch 3plus1 # 将源内容拉回到本地 3plus1 分支上
 3. $ git checkout master # 切换至主分支，如果原本就为主分支，可忽略
